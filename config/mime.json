@@ -48,6 +48,7 @@
 	"html": "text/html",
 	"ico": "image/x-icon",
 	"ics": "text/calendar",
+	"iiq": "image/x-raw",
 	"img": "application/octet-stream",
     "ini": "text/x-ini",
 	"iso": "application/octet-stream",
